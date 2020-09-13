@@ -1,2 +1,2 @@
-# Greater
-My own
+# C base olimpic team
+This is a small "data base" about olimpic team was written on C. The programm includes several functions: add a new note, deleate a note, search for a given field, edit a note, sort data for a given field, output with table view.Fields name are 1 first name last name 2 kind ofsport 3 characteristic 4 weight 5 height 6 year of birth. Has a menu and every operation realised like a function.
